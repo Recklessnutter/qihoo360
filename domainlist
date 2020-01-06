@@ -1,0 +1,114 @@
+############################################
+# To Block Qihoo 360
+# Add these entries below to your hosts file
+#
+# Your hosts file Location:
+# Linux, Unix and Mac OS X  -> /etc/hosts
+# Windows XP, Vista, Windows 7, 8.0, 8.1, 10 ->  C:\WINDOWS\system32\drivers\etc\hosts
+# Windows 2000  -> C:\WINNT\system32\drivers\etc\hosts
+# Windows 98/ME ->  C:\WINDOWS\hosts 
+#
+# You can edit the hosts file with any text editor
+#
+# On Windows 7 and higher, the default AV security scan will try to remove the
+# facebook.com entry; you'll need to add an exception to tell the OS
+# to keep the block listing in the hosts file and not to remove it
+#
+############################################
+
+0.0.0.0 360.cn
+0.0.0.0 360safe.com
+0.0.0.0 aicleaner.shouji.360.cn
+0.0.0.0 p.s.360.cn
+0.0.0.0 mvconf.f.360.cn
+0.0.0.0 mvconf.uk.cloud.360safe.com
+0.0.0.0 mvconf.lato.cloud.360safe.com
+0.0.0.0 mvconf.cloud.360safe.com
+0.0.0.0 eul.s.360.cn
+0.0.0.0 g.s.360.cn
+0.0.0.0 care.help.360.cn
+0.0.0.0 mclean.f.360.cn
+0.0.0.0 mclean.uk.cloud.360safe.com
+0.0.0.0 mclean.lato.cloud.360safe.com
+0.0.0.0 mclean.cloud.360safe.com
+0.0.0.0 map.360.cn
+0.0.0.0 f.360.cn
+0.0.0.0 live.360.cn
+0.0.0.0 i.360.cn
+0.0.0.0 profile.360.cn
+0.0.0.0 m.360.cn
+0.0.0.0 ww.360.cn
+0.0.0.0 www.360.cn
+0.0.0.0 w.360.cn
+0.0.0.0 channel.360.cn
+0.0.0.0 auto.360.cn
+0.0.0.0 vip.360.cn
+0.0.0.0 apps.360.cn
+0.0.0.0 mail.360.cn
+0.0.0.0 tu.360.cn
+0.0.0.0 tools.360.cn
+0.0.0.0 dev.360.cn
+0.0.0.0 security.360.cn
+0.0.0.0 img.360.cn
+0.0.0.0 logo.360.cn
+0.0.0.0 cloud.360.cn
+0.0.0.0 dns.360.cn
+0.0.0.0 home.360.cn
+0.0.0.0 connect.360.cn
+0.0.0.0 v.360.cn
+0.0.0.0 go.360.cn
+0.0.0.0 app.360.cn
+0.0.0.0 soft.360.cn
+0.0.0.0 static.360.cn
+0.0.0.0 avatar.360.cn
+0.0.0.0 training.360.cn
+0.0.0.0 t.360.cn
+0.0.0.0 test.360.cn
+0.0.0.0 p.360.cn
+0.0.0.0 login.360.cn
+0.0.0.0 crm.360.cn
+0.0.0.0 pan.360.cn
+0.0.0.0 hermes.360.cn
+0.0.0.0 linux.360.cn
+0.0.0.0 u.360.cn
+0.0.0.0 ns2.360.cn
+0.0.0.0 s.360.cn
+0.0.0.0 g.360.cn
+0.0.0.0 tv.360.cn
+0.0.0.0 news.360.cn
+0.0.0.0 www2.360.cn
+0.0.0.0 e.360.cn
+0.0.0.0 code.360.cn
+0.0.0.0 dc.360.cn
+0.0.0.0 maps.360.cn
+0.0.0.0 payment.360.cn
+0.0.0.0 me.360.cn
+0.0.0.0 game.360.cn
+0.0.0.0 ns3.360.cn
+0.0.0.0 y.360.cn
+0.0.0.0 index.360.cn
+0.0.0.0 driver.360safe.com
+0.0.0.0 s.360safe.com
+0.0.0.0 dns2.360safe.com
+0.0.0.0 w.360safe.com
+0.0.0.0 f.360safe.com
+0.0.0.0 dns8.360safe.com
+0.0.0.0 blog.360safe.com
+0.0.0.0 www.360safe.com
+0.0.0.0 360safe.com
+0.0.0.0 i.360safe.com
+0.0.0.0 dns4.360safe.com
+0.0.0.0 ns3.360safe.com
+0.0.0.0 dns9.360safe.com
+0.0.0.0 ns2.360safe.com
+0.0.0.0 dns1.360safe.com
+0.0.0.0 ns1.360safe.com
+0.0.0.0 login.360safe.com
+0.0.0.0 hermes.360safe.com
+0.0.0.0 d.360safe.com
+0.0.0.0 download.360safe.com
+0.0.0.0 dns7.360safe.com
+0.0.0.0 dns3.360safe.com
+0.0.0.0 update.360safe.com
+0.0.0.0 upload.360safe.com
+0.0.0.0 mail.360safe.com
